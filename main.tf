@@ -1,4 +1,4 @@
-#Inclusão de verificação de código IAC com Trivy - Correção Sbom
+#Inclusão de verificação de código IAC com Trivy - Correção Sbom.
 # Configure Azure Provider
 terraform {
   required_providers {
