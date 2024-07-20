@@ -1,3 +1,4 @@
+#Inclusão de verificação de código IAC com Trivy
 # Configure Azure Provider
 terraform {
   required_providers {
